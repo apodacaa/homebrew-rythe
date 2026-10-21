@@ -3,8 +3,8 @@ class Rythe < Formula
 
   desc "Date/time-based personal journal: $EDITOR to write, a CLI for everything else"
   homepage "https://github.com/apodacaa/rythe"
-  url "https://github.com/apodacaa/rythe/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "c468b77097142931a6faa54d8ed208869c10b6e753eceeddc1cb52c512193ee8"
+  url "https://github.com/apodacaa/rythe/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "3647ca6219a84122a6498688747516deb58d474b20772e5f560575e6a38ea469"
   license "MIT"
 
   depends_on "python@3.13"
